@@ -1,0 +1,27 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP Antenna_Chip
+D Ceramic chip antenna with pin for PCB trace
+K antenna
+F ~
+$ENDCMP
+#
+$CMP L
+D Inductor
+K inductor choke coil reactor magnetic
+F ~
+$ENDCMP
+#
+$CMP SX1272
+D 860 MHz to 1020 MHz Low Power Long Range Transceiver, spreading factor from 6 to 12, LoRA, QFN-28
+K low-power lora transceiver
+F http://www.semtech.com/images/datasheet/sx1272.pdf
+$ENDCMP
+#
+$CMP SX1273
+D 860 MHz to 1020 MHz Low Power Long Range Transceiver, spreading factor from 6 to 9, LoRA, QFN-28
+K low-power lora transceiver
+F http://www.semtech.com/images/datasheet/sx1272.pdf
+$ENDCMP
+#
+#End Doc Library
